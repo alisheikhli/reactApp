@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/alisheikhli/reactApp/static/css/main.11a5a24b.chunk.css",
+    "main.js": "/alisheikhli/reactApp/static/js/main.b57cda35.chunk.js",
+    "main.js.map": "/alisheikhli/reactApp/static/js/main.b57cda35.chunk.js.map",
+    "runtime-main.js": "/alisheikhli/reactApp/static/js/runtime-main.a5b77941.js",
+    "runtime-main.js.map": "/alisheikhli/reactApp/static/js/runtime-main.a5b77941.js.map",
+    "static/js/2.174eeef5.chunk.js": "/alisheikhli/reactApp/static/js/2.174eeef5.chunk.js",
+    "static/js/2.174eeef5.chunk.js.map": "/alisheikhli/reactApp/static/js/2.174eeef5.chunk.js.map",
+    "index.html": "/alisheikhli/reactApp/index.html",
+    "precache-manifest.868a108bd3afb42c0521569f0bb85703.js": "/alisheikhli/reactApp/precache-manifest.868a108bd3afb42c0521569f0bb85703.js",
+    "service-worker.js": "/alisheikhli/reactApp/service-worker.js",
+    "static/css/main.11a5a24b.chunk.css.map": "/alisheikhli/reactApp/static/css/main.11a5a24b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5b77941.js",
+    "static/js/2.174eeef5.chunk.js",
+    "static/css/main.11a5a24b.chunk.css",
+    "static/js/main.b57cda35.chunk.js"
+  ]
+}
